@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.listItem {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button {
+  background-color: #ffffff;
+  border: 1px #ff0b37 solid;
+  border-radius: 7px;
+  padding: 10px;
+  color: #ff0b37;
+  margin-left: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  cursor: pointer;
+  outline: none;
+}
